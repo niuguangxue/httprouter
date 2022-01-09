@@ -146,4 +146,5 @@ func BenchmarkPathCleanLong(b *testing.B) {
 			CleanPath(test.path)
 		}
 	}
+	
 }
